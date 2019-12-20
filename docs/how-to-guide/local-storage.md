@@ -57,4 +57,4 @@ If the custom visual should increase some counter every time the update method i
 
 
 ***Known limitations and issues***
-  1.	LocalStorage API isn't activated for Custom Visuals by default. If you want to activate it for your Custom Visual, please send request to Power BI Custom Visuals Support <pbicvsupport@microsoft.com>
+  1.	LocalStorage API isn't activated for Custom Visuals by default. If you want to activate it for your Custom Visual, send a request to Power BI Custom Visuals Support <pbicvsupport@microsoft.com>. Please note that your visual should be available on [AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) and be [certified](https://powerbi.microsoft.com/en-us/documentation/powerbi-custom-visuals-certified/).
